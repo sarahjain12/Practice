@@ -1,9 +1,9 @@
-package com.list;
+package com.collections.list.arrays;
 
 import java.util.ArrayList;
 import java.util.Spliterator;
 
-public class ArrayList_SplitIterator {
+public class SplitIterator {
     public static void main(String[] args) {
         ArrayList<String> names = new ArrayList<>();
 
